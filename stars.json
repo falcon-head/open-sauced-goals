@@ -1,9 +1,9 @@
 [
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 12802,
-    "open_issues_count": 159,
-    "forks_count": 1933
+    "stargazers_count": 13606,
+    "open_issues_count": 168,
+    "forks_count": 2070
   },
   {
     "full_name": "caomingkai/Front-End-Common-Problems",
@@ -13,38 +13,38 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 36937,
+    "stargazers_count": 36959,
     "open_issues_count": 18,
-    "forks_count": 5339
+    "forks_count": 5337
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 56706,
+    "stargazers_count": 56733,
     "open_issues_count": 9,
-    "forks_count": 10832
+    "forks_count": 10836
   },
   {
     "full_name": "hxu296/leetcode-company-wise-problems-2022",
-    "stargazers_count": 1809,
+    "stargazers_count": 1828,
     "open_issues_count": 2,
-    "forks_count": 566
+    "forks_count": 571
   },
   {
     "full_name": "airbnb/swift",
-    "stargazers_count": 1852,
-    "open_issues_count": 1,
-    "forks_count": 281
+    "stargazers_count": 1853,
+    "open_issues_count": 0,
+    "forks_count": 282
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 132381,
-    "open_issues_count": 157,
-    "forks_count": 25116
+    "stargazers_count": 132513,
+    "open_issues_count": 158,
+    "forks_count": 25138
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 155671,
-    "open_issues_count": 290,
-    "forks_count": 39391
+    "stargazers_count": 155789,
+    "open_issues_count": 147,
+    "forks_count": 39411
   }
 ]
