@@ -1,45 +1,45 @@
 [
   {
     "full_name": "facebookresearch/audiocraft",
-    "stargazers_count": 8935,
-    "open_issues_count": 110,
-    "forks_count": 808
+    "stargazers_count": 11280,
+    "open_issues_count": 119,
+    "forks_count": 1003
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 13907,
-    "open_issues_count": 175,
-    "forks_count": 1345
+    "stargazers_count": 14237,
+    "open_issues_count": 184,
+    "forks_count": 1385
   },
   {
     "full_name": "mlc-ai/mlc-llm",
-    "stargazers_count": 11177,
-    "open_issues_count": 98,
-    "forks_count": 771
+    "stargazers_count": 11255,
+    "open_issues_count": 96,
+    "forks_count": 778
   },
   {
     "full_name": "facebookresearch/AnimatedDrawings",
-    "stargazers_count": 8537,
+    "stargazers_count": 8562,
     "open_issues_count": 17,
-    "forks_count": 691
+    "forks_count": 693
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 14379,
-    "open_issues_count": 111,
-    "forks_count": 1757
+    "stargazers_count": 14441,
+    "open_issues_count": 114,
+    "forks_count": 1764
   },
   {
     "full_name": "databrickslabs/dolly",
-    "stargazers_count": 10500,
+    "stargazers_count": 10506,
     "open_issues_count": 2,
     "forks_count": 1121
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 36115,
-    "open_issues_count": 441,
-    "forks_count": 5779
+    "stargazers_count": 36715,
+    "open_issues_count": 459,
+    "forks_count": 5928
   },
   {
     "full_name": "caomingkai/Front-End-Common-Problems",
@@ -49,38 +49,38 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 37963,
+    "stargazers_count": 37985,
     "open_issues_count": 23,
-    "forks_count": 5442
+    "forks_count": 5446
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 57593,
+    "stargazers_count": 57607,
     "open_issues_count": 16,
-    "forks_count": 10945
+    "forks_count": 10950
   },
   {
     "full_name": "hxu296/leetcode-company-wise-problems-2022",
-    "stargazers_count": 2346,
+    "stargazers_count": 2360,
     "open_issues_count": 3,
-    "forks_count": 693
+    "forks_count": 700
   },
   {
     "full_name": "airbnb/swift",
-    "stargazers_count": 1981,
-    "open_issues_count": 0,
+    "stargazers_count": 1983,
+    "open_issues_count": 2,
     "forks_count": 295
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 135658,
+    "stargazers_count": 135717,
     "open_issues_count": 158,
-    "forks_count": 25893
+    "forks_count": 25908
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 161644,
-    "open_issues_count": 135,
-    "forks_count": 40870
+    "stargazers_count": 162488,
+    "open_issues_count": 131,
+    "forks_count": 40966
   }
 ]
