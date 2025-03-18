@@ -1,122 +1,128 @@
 [
   {
+    "full_name": "KoljaB/RealtimeTTS",
+    "stargazers_count": 2698,
+    "open_issues_count": 84,
+    "forks_count": 261
+  },
+  {
     "full_name": "EvanBacon/expo-rsc-movies",
-    "stargazers_count": 205,
+    "stargazers_count": 207,
     "open_issues_count": 1,
     "forks_count": 32
   },
   {
     "full_name": "zaidmukaddam/scira",
-    "stargazers_count": 7288,
-    "open_issues_count": 19,
-    "forks_count": 856
+    "stargazers_count": 7366,
+    "open_issues_count": 18,
+    "forks_count": 863
   },
   {
     "full_name": "miurla/morphic",
-    "stargazers_count": 7134,
-    "open_issues_count": 47,
-    "forks_count": 1925
+    "stargazers_count": 7155,
+    "open_issues_count": 44,
+    "forks_count": 1933
   },
   {
     "full_name": "vercel/ai",
-    "stargazers_count": 12608,
-    "open_issues_count": 408,
-    "forks_count": 1932
+    "stargazers_count": 12718,
+    "open_issues_count": 422,
+    "forks_count": 1947
   },
   {
     "full_name": "mickasmt/next-saas-stripe-starter",
-    "stargazers_count": 2415,
-    "open_issues_count": 17,
-    "forks_count": 480
+    "stargazers_count": 2429,
+    "open_issues_count": 19,
+    "forks_count": 481
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 44468,
+    "stargazers_count": 44619,
     "open_issues_count": 21,
-    "forks_count": 2148
+    "forks_count": 2155
   },
   {
     "full_name": "magic-research/magic-animate",
-    "stargazers_count": 10705,
+    "stargazers_count": 10706,
     "open_issues_count": 107,
-    "forks_count": 1092
+    "forks_count": 1093
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 132781,
-    "open_issues_count": 1641,
-    "forks_count": 10954
+    "stargazers_count": 133457,
+    "open_issues_count": 1674,
+    "forks_count": 11020
   },
   {
     "full_name": "Sh4yy/cloudflare-email",
-    "stargazers_count": 1505,
+    "stargazers_count": 1506,
     "open_issues_count": 13,
-    "forks_count": 374
+    "forks_count": 375
   },
   {
     "full_name": "facebookresearch/audiocraft",
-    "stargazers_count": 21646,
+    "stargazers_count": 21668,
     "open_issues_count": 327,
-    "forks_count": 2272
+    "forks_count": 2274
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 20371,
+    "stargazers_count": 20378,
     "open_issues_count": 479,
-    "forks_count": 2266
+    "forks_count": 2267
   },
   {
     "full_name": "mlc-ai/mlc-llm",
-    "stargazers_count": 20183,
-    "open_issues_count": 238,
-    "forks_count": 1686
+    "stargazers_count": 20206,
+    "open_issues_count": 242,
+    "forks_count": 1689
   },
   {
     "full_name": "facebookresearch/AnimatedDrawings",
-    "stargazers_count": 12328,
-    "open_issues_count": 18,
-    "forks_count": 1058
+    "stargazers_count": 12340,
+    "open_issues_count": 7,
+    "forks_count": 1060
   },
   {
     "full_name": "meta-llama/llama",
-    "stargazers_count": 57853,
+    "stargazers_count": 57877,
     "open_issues_count": 474,
-    "forks_count": 9714
+    "forks_count": 9718
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 42498,
+    "stargazers_count": 42510,
     "open_issues_count": 14,
-    "forks_count": 5867
+    "forks_count": 5866
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 60102,
+    "stargazers_count": 60121,
     "open_issues_count": 42,
-    "forks_count": 11084
+    "forks_count": 11086
   },
   {
     "full_name": "hxu296/leetcode-company-wise-problems-2022",
-    "stargazers_count": 8829,
-    "open_issues_count": 19,
-    "forks_count": 1874
+    "stargazers_count": 8897,
+    "open_issues_count": 20,
+    "forks_count": 1888
   },
   {
     "full_name": "airbnb/swift",
-    "stargazers_count": 2543,
+    "stargazers_count": 2545,
     "open_issues_count": 1,
-    "forks_count": 334
+    "forks_count": 335
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 146278,
+    "stargazers_count": 146293,
     "open_issues_count": 169,
-    "forks_count": 26695
+    "forks_count": 26702
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 198369,
-    "open_issues_count": 353,
-    "forks_count": 46399
+    "stargazers_count": 198466,
+    "open_issues_count": 354,
+    "forks_count": 46407
   }
 ]
