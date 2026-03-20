@@ -1,9 +1,9 @@
 [
   {
     "full_name": "anomalyco/opencode",
-    "stargazers_count": 123528,
-    "open_issues_count": 7008,
-    "forks_count": 12883
+    "stargazers_count": 125626,
+    "open_issues_count": 7192,
+    "forks_count": 13239
   },
   {
     "full_name": "vercel-labs/ai-sdk-starter-xai",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "KoljaB/RealtimeTTS",
-    "stargazers_count": 3798,
-    "open_issues_count": 136,
-    "forks_count": 374
+    "stargazers_count": 3803,
+    "open_issues_count": 132,
+    "forks_count": 375
   },
   {
     "full_name": "EvanBacon/expo-rsc-movies",
@@ -25,33 +25,33 @@
   },
   {
     "full_name": "zaidmukaddam/scira",
-    "stargazers_count": 11529,
+    "stargazers_count": 11542,
     "open_issues_count": 20,
     "forks_count": 1455
   },
   {
     "full_name": "miurla/morphic",
-    "stargazers_count": 8669,
+    "stargazers_count": 8681,
     "open_issues_count": 52,
     "forks_count": 2346
   },
   {
     "full_name": "vercel/ai",
-    "stargazers_count": 22690,
-    "open_issues_count": 1323,
-    "forks_count": 3998
+    "stargazers_count": 22810,
+    "open_issues_count": 1379,
+    "forks_count": 4022
   },
   {
     "full_name": "mickasmt/next-saas-stripe-starter",
-    "stargazers_count": 2969,
+    "stargazers_count": 2966,
     "open_issues_count": 22,
-    "forks_count": 611
+    "forks_count": 613
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 56776,
+    "stargazers_count": 56826,
     "open_issues_count": 24,
-    "forks_count": 3178
+    "forks_count": 3181
   },
   {
     "full_name": "magic-research/magic-animate",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 165308,
-    "open_issues_count": 2657,
-    "forks_count": 15011
+    "stargazers_count": 165622,
+    "open_issues_count": 2689,
+    "forks_count": 15063
   },
   {
     "full_name": "Sh4yy/cloudflare-email",
-    "stargazers_count": 1580,
+    "stargazers_count": 1581,
     "open_issues_count": 13,
     "forks_count": 370
   },
   {
     "full_name": "facebookresearch/audiocraft",
-    "stargazers_count": 23081,
+    "stargazers_count": 23096,
     "open_issues_count": 379,
-    "forks_count": 2591
+    "forks_count": 2593
   },
   {
     "full_name": "PromtEngineer/localGPT",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "mlc-ai/mlc-llm",
-    "stargazers_count": 22220,
-    "open_issues_count": 303,
-    "forks_count": 1963
+    "stargazers_count": 22243,
+    "open_issues_count": 301,
+    "forks_count": 1968
   },
   {
     "full_name": "facebookresearch/AnimatedDrawings",
@@ -97,44 +97,44 @@
   },
   {
     "full_name": "meta-llama/llama",
-    "stargazers_count": 59228,
-    "open_issues_count": 516,
-    "forks_count": 9825
+    "stargazers_count": 59241,
+    "open_issues_count": 515,
+    "forks_count": 9822
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 43907,
+    "stargazers_count": 43919,
     "open_issues_count": 14,
-    "forks_count": 5953
+    "forks_count": 5957
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 60805,
+    "stargazers_count": 60803,
     "open_issues_count": 50,
-    "forks_count": 11069
+    "forks_count": 11068
   },
   {
     "full_name": "hxu296/leetcode-company-wise-problems-2022",
-    "stargazers_count": 11074,
+    "stargazers_count": 11080,
     "open_issues_count": 28,
     "forks_count": 2317
   },
   {
     "full_name": "airbnb/swift",
-    "stargazers_count": 2694,
+    "stargazers_count": 2695,
     "open_issues_count": 0,
     "forks_count": 345
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 148124,
+    "stargazers_count": 148130,
     "open_issues_count": 189,
-    "forks_count": 26772
+    "forks_count": 26775
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 218764,
-    "open_issues_count": 886,
-    "forks_count": 50215
+    "stargazers_count": 218872,
+    "open_issues_count": 888,
+    "forks_count": 50236
   }
 ]
